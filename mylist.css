@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(to bottom right, #2c3e50, #fd746c, #ff8235, #ffff1c, #92fe9d, #00c9ff, #a044ff, #e73827);
+    background-repeat: no repeat;
+    background-size: 1000% 1000%;
+    animation: gradient 240s ease infinite;
+}
+
+a:hover{
+    color: red;
+}
+a:visited{
+    color: darkred;
+}
+
+a{
+    text-decoration: none;
+    color: darkgray;
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2, h3, h4, h5{
+    font-size: 20px;
+    font-weight: 300;
+}
+.container-1{
+    text-align: center;
+}
+.box-1 ul{
+    list-style: none;
+    padding: 0;
+}
+.container-2{
+    text-align: center;
+}
+.box-2 ol{
+    list-style: none;
+    padding: 0;
+}
+.container-3{
+    text-align: center;
+}
+.box-3 ul{
+    list-style: none;
+    padding: 0;
+}
+.container-4{
+    text-align: center;
+}
+.box-4 ol{
+    list-style: none;
+    padding: 0;
+}
